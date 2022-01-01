@@ -1,0 +1,1 @@
+OLED_DRIVER_ENABLE = no   # Enables the use of OLED displays
