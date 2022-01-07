@@ -3,12 +3,14 @@
 ### AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
 
 ![Photo 1](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(1).JPG)
-![Photo 2](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(2).JPG)
-![Photo 3](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(3).JPG)
-![Photo 4](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(4).JPG)
-![Photo 5](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(5).JPG)
 
-https://github.com/ItzAdel/AWF-firmware
+![Photo 2](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(2).JPG)
+
+![Photo 3](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(3).JPG)
+
+![Photo 4](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(4).JPG)
+
+![Photo 5](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(5).JPG)
 
 ### How to compile firmware?
 
