@@ -32,6 +32,7 @@ led_config_t g_led_config = {
         4, 4, 4, 4,
     }
 };
+
 void suspend_power_down_kb(void) {
     rgb_matrix_set_suspend_state(true);
     suspend_power_down_user();
