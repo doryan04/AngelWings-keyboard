@@ -4,7 +4,7 @@
 
 ### Angel Wings v.2.0 (recomended)
 
-* [pcb.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/pcb.zip)
+* [pcb.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/pcb.zip?raw=true)
 
 ![](photos/pcb.png)
 
@@ -12,13 +12,13 @@
 
 ### Top plate
 
-* [top plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/top%20plate.zip)
+* [top plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/top%20plate.zip?raw=true)
 
 ![](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/top%20plate.png)
 
 ### Bottom plate
 
-* [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/bottom%20plate.zip)
+* [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/bottom%20plate.zip?raw=true)
 
 ![](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/bottom%20plate.png)
 
