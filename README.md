@@ -18,9 +18,9 @@
 
 ### Bottom plate
 
-* [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/bottom%20plate.zip)
+* [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/tree/main/gerbers/bottom%20plate.zip)
 
-[](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/bottom%20plate.png)
+[](https://github.com/ItzAdel/AngelWings-keyboard/tree/main/photos/bottom%20plate.png)
 
 # AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
 
