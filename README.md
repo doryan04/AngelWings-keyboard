@@ -14,13 +14,13 @@
 
 * [top plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/top%20plate.zip)
 
-[](photos/top plate.png)
+[](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/top%20plate.png)
 
 ### Bottom plate
 
 * [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/bottom%20plate.zip)
 
-[](photos/bottom plate.png)
+[](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/bottom%20plate.png)
 
 # AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
 
