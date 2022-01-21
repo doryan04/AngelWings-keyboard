@@ -1,6 +1,28 @@
 # Angel Wings Keyboard (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
 
-### AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
+## PCB
+
+### Angel Wings v.2.0 (recomended)
+
+* [pcb.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/pcb.zip)
+
+[](photos/pcb.png)
+
+## Plates
+
+### Top plate
+
+* [top plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/top%20plate.zip)
+
+[](photos/top plate.png)
+
+### Bottom plate
+
+* [bottom plate.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/bottom%20plate.zip)
+
+[](photos/bottom plate.png)
+
+# AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
 
 ![Photo 1](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(1).JPG)
 
