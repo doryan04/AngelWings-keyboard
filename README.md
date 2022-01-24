@@ -2,7 +2,7 @@
 
 ## PCB
 
-### Angel Wings v.2.0 (recomended)
+### Angel Wings v.2.1 (recomended)
 
 * [pcb.zip](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/gerbers/pcb.zip?raw=true)
 
