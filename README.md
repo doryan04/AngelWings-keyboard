@@ -1,6 +1,6 @@
 # Angel Wings Keyboard (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
 
-![Main Photo](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(6).JPG)
+![Main Photo](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(6).jpg)
 
 ## WARNING!
 
