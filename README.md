@@ -1,5 +1,19 @@
 # Angel Wings Keyboard (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
 
+![Main Photo](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(6).JPG)
+
+## WARNING!
+
+If you are a Linux user like me and get the error:
+```
+The display compositor is frequently crashing. Goodbye.
+```
+I strongly recommend to start VIA via console/terminal with the command:
+```
+sudo via --no-sandbox
+```
+Read more: https://github.com/the-via/releases/issues/179
+
 ## PCB
 
 ### Angel Wings v.2.1 (recomended)
@@ -55,5 +69,7 @@ or if you want VIA port:
 qmk compile -kb angelwings -km via
 ```
 4) If your firmware compiled - then let's have fun!
+
+## Tutorial coming soon.
 
 ### Check out @tfk004 on Telegram. https://t.me/tfk004
