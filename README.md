@@ -36,6 +36,6 @@
 
 ![Photo 5](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/photos/awf%20(5).JPG)
 
-## Check wiki for more info
+## Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
 ### Check out @tfk004 on Telegram. https://t.me/tfk004
