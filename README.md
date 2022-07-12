@@ -42,6 +42,6 @@
 
 You can use the online version via to configure the keyboard
 
-[![video](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/thumb/via.JPG)](https://youtu.be/KcosSeNAZnk)
+[![video](https://github.com/ItzAdel/AngelWings-keyboard/blob/main/thumb/via.png)](https://youtu.be/KcosSeNAZnk)
 
 ### Check out @tfk004 on Telegram. https://t.me/tfk004
