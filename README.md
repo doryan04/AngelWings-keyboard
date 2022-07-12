@@ -38,4 +38,10 @@
 
 ## Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
+## VIA
+
+You can use the online version via to configure the keyboard
+
+[![video](https://youtu.be/KcosSeNAZnk)](https://youtu.be/KcosSeNAZnk)
+
 ### Check out @tfk004 on Telegram. https://t.me/tfk004
