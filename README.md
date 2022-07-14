@@ -14,7 +14,7 @@
 
 ![Photo 5](photos/awf(5).jpg)
 
-## Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
+### Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
 ## VIA
 
