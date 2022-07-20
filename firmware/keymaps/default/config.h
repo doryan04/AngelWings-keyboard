@@ -3,7 +3,7 @@
 #ifdef RGBLIGHT_ENABLE
 #    undef RGBLED_NUM
 #    define RGBLIGHT_ANIMATIONS
-#    define RGBLED_NUM 54
+#    define RGBLED_NUM 46
 #    undef RGBLED_SPLIT
 #    define RGBLED_SPLIT \
         { 23, 23 }
