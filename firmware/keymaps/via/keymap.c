@@ -16,15 +16,15 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     ),
 
     [2] = LAYOUT(
-    _______, KC_NLCK, KC_PSLS, KC_P7,   KC_P8,   KC_P9,   KC_PMNS,      KC_END,  KC_HOME, KC_UP,   KC_PSCR, KC_SLCK, KC_CAPS, _______,
-    KC_VOLU, KC_PEQL, KC_PAST, KC_P4,   KC_P5,   KC_P6,   KC_PPLS,      _______, KC_LEFT, KC_DOWN, KC_RGHT, KC_INS,  KC_APP,  KC_VOLD,
-             _______, KC_P0,   KC_P1,   KC_P2,   KC_P3,   KC_PCMM,      _______, KC_END,  _______, KC_PGDN, KC_PAUS, _______,
+    _______, KC_NLCK, KC_PSLS, KC_P7,   KC_P8,   KC_P9,   KC_PMNS,      _______, KC_HOME, KC_END,  KC_PSCR, KC_SLCK, KC_CAPS, _______,
+    KC_VOLU, KC_PEQL, KC_PAST, KC_P4,   KC_P5,   KC_P6,   KC_PPLS,      _______, KC_LEFT, KC_UP,   KC_RGHT, KC_INS,  KC_APP,  KC_VOLD,
+             _______, KC_P0,   KC_P1,   KC_P2,   KC_P3,   KC_PCMM,      _______, KC_END,  KC_DOWN, KC_PGDN, KC_PAUS, _______,
                                         _______, _______, MO(3)  ,      MO(3)  , _______, _______
     ),
     [3] = LAYOUT(
-    _______,  _______, KC_ASUP, KC_ASTG, KC_ASDN, KC_WH_U, _______,      _______, KC_BTN1, KC_MS_U, KC_BTN2, _______, _______, _______,
-    _______,  RGB_TOG, RGB_HUI, RGB_SAI, RGB_VAI, KC_WH_D, _______,      _______, KC_MS_L, KC_MS_D, KC_MS_R, _______, _______, _______,
-              RGB_MOD, RGB_HUD, RGB_SAD, RGB_VAD, _______, _______,      _______, KC_ACL0, KC_ACL1, KC_ACL2, _______, _______,
+    _______,  _______, KC_ASUP, KC_ASTG, KC_ASDN, _______, _______,      KC_WH_U, KC_BTN1, KC_ACL1, KC_BTN2, _______, _______, _______,
+    _______,  RGB_TOG, RGB_HUI, RGB_SAI, RGB_VAI, _______, _______,      KC_WH_D, KC_MS_L, KC_MS_U, KC_MS_R, _______, _______, _______,
+              RGB_MOD, RGB_HUD, RGB_SAD, RGB_VAD, _______, _______,      _______, KC_ACL0, KC_MS_D, KC_ACL2, _______, _______,
                                          _______, _______, _______,      _______, _______, _______
     ),
 };

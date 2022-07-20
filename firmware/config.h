@@ -5,7 +5,7 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    Doryan_and_nm17
+#define MANUFACTURER    DlSgv_and_NM17
 #define PRODUCT         Angelwings Keyboard
 #define DESCRIPTION     Split 40 percent ergo-keyboard
 
