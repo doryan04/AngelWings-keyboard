@@ -1,3 +1,5 @@
+![Issues](https://img.shields.io/bitbucket/issues/ItzAdel/AngelWings-keyboard)
+
 # Angel Wings Keyboard (by [@ItzAdel](https://github.com/ItzAdel) and [@nm17](https://github.com/nm17))
 
 ![Main Photo](photos/awf(6).jpg)
