@@ -17,12 +17,6 @@ The blue symbols on the keymap are the symbols placed on the lower layer. Red is
 
 ![Photo 4](photos/awf(4).jpg)
 
-### Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
+# Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
-## VIA
-
-You can use the online version via to configure the keyboard
-
-[![video](thumb/via.png)](https://youtu.be/KcosSeNAZnk)
-
-### Check out @tfk004 on Telegram. https://t.me/tfk004
+# Check out @tfk004 on Telegram. https://t.me/tfk004
