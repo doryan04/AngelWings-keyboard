@@ -10,6 +10,7 @@
 
 The blue symbols on the keymap are the symbols placed on the lower layer. Red is on the raise. Green is on adjust.
 
+### Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
 # AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
 
@@ -17,6 +18,4 @@ The blue symbols on the keymap are the symbols placed on the lower layer. Red is
 
 ![Photo 4](photos/awf(4).jpg)
 
-# Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
-
-# Check out @tfk004 on Telegram. https://t.me/tfk004
+### Check out @tfk004 on Telegram. https://t.me/tfk004
