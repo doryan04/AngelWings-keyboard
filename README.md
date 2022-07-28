@@ -6,13 +6,22 @@
 
 # Keymap
 
+The Lower, Raise and Adjust layers are provided to allow you to use full-size keys that are not on this keyboard.
+
 ![Keymap](thumb/Keymap.png)
 
-The blue symbols on the keymap are the symbols placed on the lower layer. Red is on the raise. Green is on adjust.
+To use one or the other layer, you need to press one of the following keys:
+- Super/Enter for Lower.
+- Tab/Delete for Raise
+- To switch to the Adjust layer, press Enter + Tab / Super + Del
 
+<<<<<<< HEAD
 ### Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
 # AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
+=======
+# Photos
+>>>>>>> 0bc829a (Update README.md)
 
 ![Photo 3](photos/awf(3).jpg)
 
