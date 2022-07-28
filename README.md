@@ -15,13 +15,9 @@ To use one or the other layer, you need to press one of the following keys:
 - Tab/Delete for Raise
 - To switch to the Adjust layer, press Enter + Tab / Super + Del
 
-<<<<<<< HEAD
 ### Check [wiki](https://github.com/ItzAdel/AngelWings-keyboard/wiki/INFO) for more info
 
-# AWF is a ergo-split keyboard with 46 keys, originally designed for a school project.
-=======
 # Photos
->>>>>>> 0bc829a (Update README.md)
 
 ![Photo 3](photos/awf(3).jpg)
 
