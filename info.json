@@ -2,7 +2,7 @@
     "name": "AngelWings",
     "vendorId": "0xFEED",
     "productId": "0x0000",
-    "lighting": "qmk_rgblight",
+    "lighting": "none",
     "matrix": {
         "rows": 8,
         "cols": 7
