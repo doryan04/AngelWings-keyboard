@@ -1,6 +1,6 @@
 {
     "name": "AngelWings",
-    "vendorId": "0xFEED",
+    "vendorId": "feed",
     "productId": "0x0000",
     "lighting": "none",
     "matrix": {
