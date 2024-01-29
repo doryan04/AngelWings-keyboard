@@ -23,4 +23,4 @@ To use one or the other layer, you need to press one of the following keys:
 
 ![Photo 4](photos/awf(4).jpg)
 
-### Check out @tfk004 on Telegram. https://t.me/doryanProjects
+### Check out actual news on Telegram. https://t.me/doryanProjects
