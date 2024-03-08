@@ -23,4 +23,7 @@ To use one or the other layer, you need to press one of the following keys:
 
 ![Photo 4](photos/awf(4).jpg)
 
+# Nowadays, this repository is archived
+## Check out updates AWF on [my gitea](https://gitea.doryan04.ru/doryan/AWF)
+
 ### Check out actual news on Telegram. https://t.me/doryanProjects
